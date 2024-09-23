@@ -28,3 +28,14 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Players can tak
 1. Clone the repository:
    ```bash
    git clone https://github.com/dhrupmaurya/Tic-Tac-Toe.git
+
+
+
+
+Game Controls
+Click on the boxes to make your move.
+Click the "Reset Game" button to clear the board.
+Click the "New Game" button to start over.
+
+
+
